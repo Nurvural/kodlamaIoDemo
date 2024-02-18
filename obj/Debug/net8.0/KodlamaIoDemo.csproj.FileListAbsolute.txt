@@ -1,0 +1,14 @@
+C:\Users\VURAL\source\repos\KodlamaIoDemo\obj\Debug\net8.0\KodlamaIoDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VURAL\source\repos\KodlamaIoDemo\obj\Debug\net8.0\KodlamaIoDemo.AssemblyInfoInputs.cache
+C:\Users\VURAL\source\repos\KodlamaIoDemo\obj\Debug\net8.0\KodlamaIoDemo.AssemblyInfo.cs
+C:\Users\VURAL\source\repos\KodlamaIoDemo\obj\Debug\net8.0\KodlamaIoDemo.csproj.CoreCompileInputs.cache
+C:\Users\VURAL\source\repos\KodlamaIoDemo\bin\Debug\net8.0\KodlamaIoDemo.exe
+C:\Users\VURAL\source\repos\KodlamaIoDemo\bin\Debug\net8.0\KodlamaIoDemo.deps.json
+C:\Users\VURAL\source\repos\KodlamaIoDemo\bin\Debug\net8.0\KodlamaIoDemo.runtimeconfig.json
+C:\Users\VURAL\source\repos\KodlamaIoDemo\bin\Debug\net8.0\KodlamaIoDemo.dll
+C:\Users\VURAL\source\repos\KodlamaIoDemo\bin\Debug\net8.0\KodlamaIoDemo.pdb
+C:\Users\VURAL\source\repos\KodlamaIoDemo\obj\Debug\net8.0\KodlamaIoDemo.dll
+C:\Users\VURAL\source\repos\KodlamaIoDemo\obj\Debug\net8.0\refint\KodlamaIoDemo.dll
+C:\Users\VURAL\source\repos\KodlamaIoDemo\obj\Debug\net8.0\KodlamaIoDemo.pdb
+C:\Users\VURAL\source\repos\KodlamaIoDemo\obj\Debug\net8.0\KodlamaIoDemo.genruntimeconfig.cache
+C:\Users\VURAL\source\repos\KodlamaIoDemo\obj\Debug\net8.0\ref\KodlamaIoDemo.dll
